@@ -1,0 +1,6 @@
+PhotoAlchemy
+PhotoMagic
+PhotoWizard
+PhotoMastermind
+PhotoGenius
+
