@@ -8,7 +8,7 @@ import sys
 import requests
 from youtubesearchpython import VideosSearch 
 
-t = "6074293789:AAHTiCZU6mAnXBJmE0qnHfnaCXHVwz2n6Hg"
+t = ""
 bot = telebot.TeleBot(t)
 if not os.path.exists("in"):
 	os.mkdir('in')
